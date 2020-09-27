@@ -1,0 +1,19 @@
+{
+  "title": "Terraforaming Mars Calculator",
+  "homeTitle": "Board game calculator",
+  "appDescription": "Terraforaming Mars Calculator",
+  "loginFailed": "\nLogin failed, please try again later.",
+
+  "singlePlay": "Single Play",
+  "multiPlay": "Multi Play",
+
+  "terraformingScore": "Terraforming",
+  "awardsScore": "Awards",
+  "milestonesScore": "Milestones",
+  "greeneriesScore": "Greeneries",
+  "specialResourcesScore": "Special Resources",
+  "eventCardsScore": "Event Cards",
+  "jupiterCardsScore": "JupiterCards",
+  "citiesScore": "Cities",
+  "normalCardsScore": "Normal Cards"
+}

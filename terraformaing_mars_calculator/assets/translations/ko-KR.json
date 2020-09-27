@@ -1,0 +1,19 @@
+{
+  "title": "테라포밍 마스 계산기",
+  "homeTitle": "보드게임 계산기",
+  "appDescription": "테라포밍 마스 보드게임 점수 계산기 입니다.",
+  "loginFailed": "\n로그인 할 수 없습니다.\n잠시 후 다시 시도해주세요.",
+
+  "singlePlay": "혼자하기",
+  "multiPlay": "같이하기",
+
+  "terraformingScore": "테라포밍 지수",
+  "awardsScore": "기업상",
+  "milestonesScore": "업적",
+  "greeneriesScore": "녹지",
+  "specialResourcesScore": "특수 자원",
+  "eventCardsScore": "사건형 카드",
+  "jupiterCardsScore": "목성 카드",
+  "citiesScore": "도시",
+  "normalCardsScore": "일반 카드"
+}
